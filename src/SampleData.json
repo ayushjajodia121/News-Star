@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He, CNN Business",
+            "title": "China's economy is going backwards - CNN",
+            "description": "China's gigantic services sector just contracted at the second sharpest pace on record as Covid lockdowns hit businesses hard.",
+            "url": "https://www.cnn.com/2022/05/05/economy/china-economy-services-decline-covid-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220505005941-shanghai-empty-street-0501-super-tease.jpg",
+            "publishedAt": "2022-05-05T09:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Anmar Frangoul",
+            "title": "World’s second-largest hydropower plant set for 14-year upgrade after deal with GE - CNBC",
+            "description": "Itaipu commenced electricity production in 1984.",
+            "url": "https://www.cnbc.com/2022/05/05/ge-signs-contract-to-upgrade-vast-hydropower-facility-in-south-america.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107056387-1651735536448-gettyimages-1342056397-_dsc7618.jpeg?v=1651735870&w=1920&h=1080",
+            "publishedAt": "2022-05-05T08:56:26Z",
+            "content": "Straddling the border between Brazil and Paraguay, Itaipu commenced electricity production in 1984. The technological upgrades being planned for the site are set to take 14 years.\r\nGE Renewable Energ… [+2815 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "Stock futures trade lower after Fed-powered rally - Fox Business",
+            "description": "U.S. equity futures ticked lower following Wednesday's huge rally for stocks.",
+            "url": "https://www.foxbusiness.com/markets/stock-futures-5-5-2022",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/02/0/0/US-stocks-lower-monday-2-14-22.jpg?ve=1&tl=1",
+            "publishedAt": "2022-05-05T07:14:26Z",
+            "content": "U.S. equity futures ticked lower following Wednesday's huge rally for stocks.\r\nThe major futures indexes suggest a decline of 0.4% when the opening bell rings on Wall Street.\r\nGET FOX BUSINESS ON THE… [+3473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Oil giant Shell reports highest quarterly profit since 2008 on soaring commodity prices - CNBC",
+            "description": "Shell's bumper earnings echo profits seen across the oil and gas industry, even as many energy majors incur costly write-downs from exiting Russia.",
+            "url": "https://www.cnbc.com/2022/05/05/shell-earnings-q1-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107055790-1651667485007-gettyimages-1240341411-AFP_329946W.jpeg?v=1651732725&w=1920&h=1080",
+            "publishedAt": "2022-05-05T06:09:11Z",
+            "content": "LONDON Oil giant Shell on Thursday reported its highest quarterly profit since 2008 on soaring commodity prices, fueling calls for a one-off windfall tax on oil and gas companies to help U.K. househo… [+3372 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Over 80 firms including China's JD.com added to U.S. SEC list facing delisting risk - Reuters.com",
+            "description": "The U.S. Securities and Exchange Commission (SEC) added over 80 firms, including China's JD.com <a href=\"https://www.reuters.com/companies/9618.HK\" target=\"_blank\">(9618.HK)</a>, to a list of entities facing possible expulsion from American exchanges amid a l…",
+            "url": "https://www.reuters.com/business/over-80-firms-including-chinas-jdcom-added-us-sec-list-facing-delisting-risk-2022-05-05/",
+            "urlToImage": "https://www.reuters.com/resizer/9Xlt3gbkAVk2cK8v02QXOXT_TT8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUAKWABDIFO5VA6AY2FRKQ6RUY.jpg",
+            "publishedAt": "2022-05-05T05:24:00Z",
+            "content": "May 5 (Reuters) - The U.S. Securities and Exchange Commission (SEC) added over 80 firms, including China's JD.com (9618.HK), to a list of entities facing possible expulsion from American exchanges am… [+1840 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "U.S. Considers Unprecedented Sanctions on China Tech Giant Hikvision - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9d11f6b9-cc40-11ec-ad85-584256654a79&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0wNS91LXMtbXVsbHMtdW5wcmVjZWRlbnRlZC1zYW5jdGlvbnMtb24tY2hpbmEtdGVjaC1naWFudC1oaWt2aXNpb24=",
+            "urlToImage": null,
+            "publishedAt": "2022-05-05T03:32:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "Buffett's Berkshire buys more Occidental shares - Fox Business",
+            "description": "Warren Buffett's Berkshire Hathaway stocked up on oil shares this week, adding to the company's holdings of Occidental Petroleum.",
+            "url": "https://www.foxbusiness.com/markets/buffetts-berkshire-buys-more-occidental-shares",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/05/0/0/buffett-video-thumbnail.jpg?ve=1&tl=1",
+            "publishedAt": "2022-05-05T02:41:52Z",
+            "content": "Warren Buffett's Berkshire Hathaway stocked up on oil shares this week, adding to the company's holdings of Occidental Petroleum.\r\nBerkshire bought about 5.9 million more shares of the oil company. T… [+1721 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "The company behind celebrity cameo videos has laid off a quarter of its workers - The Verge",
+            "description": "The company that lets you pay celebrities to record videos is laying off a quarter of its staff, according to a report from The Information.",
+            "url": "https://www.theverge.com/2022/5/4/23057796/cameo-layoffs-ceo-pandemic-growth-fameo",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/7dAh0wHxAFpnXFCOTTb0gzAP-aQ=/0x288:4000x2382/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23438988/1231257514.jpg",
+            "publishedAt": "2022-05-05T01:28:25Z",
+            "content": "Dont call your employees a fameo while announcing layoffs\r\nThe company apparently grew too large during the pandemic.\r\nImage: Getty\r\nCameo, the company that lets you pay a celebrity to record a custo… [+2524 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Eustance Huang",
+            "title": "Mainland China stocks rise on return to trade, as Asia stocks climb following Fed rate hike - CNBC",
+            "description": "The U.S. Federal Reserve on Wednesday increased its benchmark interest rate by half a percentage point, in line with market expectations.",
+            "url": "https://www.cnbc.com/2022/05/05/asia-markets-us-federal-reserve-china-economy-currencies-oil.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107007807-1643337444460-gettyimages-1267455437-vcg111295937601.jpeg?v=1651719317&w=1920&h=1080",
+            "publishedAt": "2022-05-04T23:38:54Z",
+            "content": "SINGAPORE Shares in Asia-Pacific were higher in Thursday trade following the U.S. Federal Reserve's widely expected decision overnight to hike rates by half a a percentage point its biggest increase … [+3093 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Don Thompson",
+            "title": "California moves to embrace cryptocurrency and regulate it - The Associated Press - en Español",
+            "description": "SACRAMENTO, Calif. (AP) — California, which has a economy larger than all but four countries and where much of the world's technological innovation is born, on Wednesday became the first state to formally begin examining how to broadly adapt to cryptocurrency…",
+            "url": "https://apnews.com/article/cryptocurrency-biden-technology-business-california-0586164898c33eeaefa0afa835fd7b50",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/796800b2a0e7420e89c132325016f01f/3000.jpeg",
+            "publishedAt": "2022-05-04T23:05:36Z",
+            "content": "SACRAMENTO, Calif. (AP) California, which has a economy larger than all but four countries and where much of the worlds technological innovation is born, on Wednesday became the first state to formal… [+5551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kevin Stankiewicz",
+            "title": "Cramer's lightning round: Marvell Technology and Bausch Health are buys - CNBC",
+            "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+            "url": "https://www.cnbc.com/2022/05/04/cramers-lightning-round-marvell-technology-and-bausch-health-are-buys.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102086255-mad-money-lightning.jpg?v=1510939612&w=1920&h=1080",
+            "publishedAt": "2022-05-04T22:53:23Z",
+            "content": "Bausch Health: \"We wanted to buy more today, but we ran out of time. This thing is being put on sale. There are shorts taking it all the way down. It is quite ridiculous. I wanted to be able to buy a… [+1098 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Neil Irwin",
+            "title": "The Fed's Jerome Powell is owning the inflation problem - Axios",
+            "description": "Chair Jerome Powell addressed the American public directly, and owned the current situation",
+            "url": "https://www.axios.com/2022/05/04/fed-owning-inflation",
+            "urlToImage": "https://images.axios.com/qGE5sPxPQgSGLNEueoPXa7lI3rk=/0x0:1920x1080/1366x768/2022/05/05/1651715810655.jpg",
+            "publishedAt": "2022-05-04T22:23:27Z",
+            "content": "The two most striking moments of Federal Reserve chair Jerome Powell's news conference Wednesday came at the very beginning and near the end.\r\nHe started the session by staring into the camera and te… [+3144 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "Intuit owes you money if it tricked you into paying for TurboTax \"Free Edition\" - The Verge",
+            "description": "After years of deceptive marketing around its “free” TurboTax software, Intuit will have to compensate people it tricked into paying to file taxes when they didn’t need to.",
+            "url": "https://www.theverge.com/2022/5/4/23057463/intuit-141-million-agreement-new-york-attorney-general-turbotax-free",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/n-qBQdlVJ279Uqn5MwxR50T6DoM=/0x0:4000x2094/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23438703/1235036842.jpg",
+            "publishedAt": "2022-05-04T22:20:31Z",
+            "content": "Its paying out $141 million in total\r\nBut will I have to claim that as income on my taxes?\r\nIntuit, the company behind TurboTax, has agreed to pay out $141 million after it cheated millions of low-in… [+3287 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Lithium Stocks White Hot: Albemarle Soars Late After Livent Skyrockets On Earnings, Outlook - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy9saXRoaXVtLXN0b2Nrcy1saXZlbnQtZ2FpbnMtb24tZWFybmluZ3Mtb3V0bG9vay1hbGJlbWFybGUtb24tZGVjay_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-05-04T21:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Larry Kudlow",
+            "title": "Kudlow: Wednesday's Fed announcements were dovish - Fox Business",
+            "description": "FOX Business host Larry Kudlow reacts to Wednesday's Fed meeting on 'Kudlow.'",
+            "url": "https://www.foxbusiness.com/media/kudlow-todays-fed-announcements-were-dovish",
+            "urlToImage": "https://a57.foxnews.com/manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/854081161001/7a34319a-8327-4df1-80c0-c0ce5e20dbbd/10s/0/0/master.m3u8?fastly_token=NjM2NDM3YWNfMmFlNGNmMDI4NTc4Zjc3ZDUxMDE4YTYxMzk1M2NjN2Q0OTMwYzRlMjYwODFlZGVmODY0M2UzMTQ0Njg5NGVmNA%3D%3D?ve=1&tl=1",
+            "publishedAt": "2022-05-04T21:38:21Z",
+            "content": "First up, we focus on inflation and today's Fed meeting. Folks, I knew Paul Volcker. I actually worked for Paul Volcker at the NY Fed in 1975. and I can tell you Jay Powell is no Paul Volcker. \r\nHe m… [+4366 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "The Frontier Passenger Taped to His Seat After Groping Flight Attendants Is Going To Jail - Gizmodo",
+            "description": "The Ohio man who had his mouth taped shut on a plane last summer has been sentenced to nearly two months in jail.",
+            "url": "https://gizmodo.com/jon-berry-frontier-passenger-tape-seat-jail-sentence-1848879322",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9989faed9afaaac89e5d2be3519d873f.png",
+            "publishedAt": "2022-05-04T21:30:00Z",
+            "content": "The dude who drunkenly flipped out on a Frontier Airlines flight last summer and assaulted three flight attendants before getting duct-taped to his own seat has been sentenced to 60 days in jail, acc… [+2389 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Salvador Rodriguez",
+            "title": "Facebook Parent Meta Hits the Brakes on Hiring as Growth Stalls - The Wall Street Journal",
+            "description": "The slowdown ends an extended period in which the tech giant added thousands of jobs a year. The company says it has no plans for layoffs.",
+            "url": "https://www.wsj.com/articles/facebook-parent-meta-hits-the-brakes-on-hiring-as-growth-stalls-11651699263",
+            "urlToImage": "https://images.wsj.net/im-537965/social",
+            "publishedAt": "2022-05-04T21:21:00Z",
+            "content": "Facebook parent Meta Platforms on Wednesday announced a sharp slowdown in hiring, ending an extended period in which the tech giant added thousands of jobs a year.\r\nWe regularly re-evaluate our talen… [+278 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Will Daniel",
+            "title": "A Bitcoin margin call. If the world’s leading cryptocurrency drops below $21,000, Michael Saylor’s MicroStrategy will be forced to pay up - Fortune",
+            "description": "Saylor has become a leader in the crypto community ever since his company began adding Bitcoin to its balance sheet, but being a crypto evangelist comes with some serious risks.",
+            "url": "https://fortune.com/2022/05/04/michael-saylor-microstrategy-margin-call-bitcoin/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/Michael-Saylor-bitcoin-2021-e1651690865866.jpg?resize=1200,600",
+            "publishedAt": "2022-05-04T21:12:14Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The Fed's Neutral Rate Is 'in the Enchanted Forest,' Brady Says - Bloomberg Markets and Finance",
+            "description": "The Federal Reserve's neutral rate is \"in the enchanted forest\" and high inflation will push the U.S. economy into recession, according to Jason Brady, chief...",
+            "url": "https://www.youtube.com/watch?v=Ye1mY32Dze4",
+            "urlToImage": "https://i.ytimg.com/vi/Ye1mY32Dze4/hqdefault.jpg",
+            "publishedAt": "2022-05-04T21:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Taylor Lyles",
+            "title": "Apple's Second Retail Store Is Unionizing - IGN - IGN",
+            "description": "An Apple Retail store located at the Towson Town Center Mall has announced today that it is filing a petition to hold a union election.",
+            "url": "https://www.ign.com/articles/apple-second-retail-store-unionzing-towson-maryland",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/03/06/apple-logos-blogroll-logos-1646529461244.jpg?width=1280",
+            "publishedAt": "2022-05-04T20:53:09Z",
+            "content": "An Apple retail store located in the Towson Town Center Mall in Maryland announced today that it has filed for a union election. \r\nIn a press release, International Association of Machinists and Aero… [+1080 chars]"
+        }
+    ]
+}
